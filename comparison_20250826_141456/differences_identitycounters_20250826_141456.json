@@ -1,0 +1,364 @@
+{
+  "missing_in_source": [],
+  "missing_in_target": [],
+  "common_count": 42,
+  "content_differences": [
+    {
+      "_id": "6746c358192c03ece0a4d587",
+      "source_doc": {
+        "model": "vehicles_parts_and_accessories_posts_active",
+        "field": "postId",
+        "count": 941
+      },
+      "target_doc": {
+        "model": "vehicles_parts_and_accessories_posts_active",
+        "field": "postId",
+        "count": 1038
+      },
+      "diff": {
+        "values_changed": {
+          "root['count']": {
+            "new_value": 1038,
+            "old_value": 941
+          }
+        }
+      }
+    },
+    {
+      "_id": "65ee3b32ec925513b6daa520",
+      "source_doc": {
+        "model": "real_estate_for_rent_posts_active",
+        "field": "postId",
+        "count": 11347
+      },
+      "target_doc": {
+        "model": "real_estate_for_rent_posts_active",
+        "field": "postId",
+        "count": 11781
+      },
+      "diff": {
+        "values_changed": {
+          "root['count']": {
+            "new_value": 11781,
+            "old_value": 11347
+          }
+        }
+      }
+    },
+    {
+      "_id": "669649febd71c90f1b7e4516",
+      "source_doc": {
+        "model": "tourist_attractions_calendar_planner_collections",
+        "field": "collectionId",
+        "count": 38
+      },
+      "target_doc": {
+        "model": "tourist_attractions_calendar_planner_collections",
+        "field": "collectionId",
+        "count": 40
+      },
+      "diff": {
+        "values_changed": {
+          "root['count']": {
+            "new_value": 40,
+            "old_value": 38
+          }
+        }
+      }
+    },
+    {
+      "_id": "66c1eab132e3d43b81985751",
+      "source_doc": {
+        "model": "vehicles_numbers_posts_active",
+        "field": "postId",
+        "count": 31824
+      },
+      "target_doc": {
+        "model": "vehicles_numbers_posts_active",
+        "field": "postId",
+        "count": 33517
+      },
+      "diff": {
+        "values_changed": {
+          "root['count']": {
+            "new_value": 33517,
+            "old_value": 31824
+          }
+        }
+      }
+    },
+    {
+      "_id": "665218da8848d7b58bc301e3",
+      "source_doc": {
+        "model": "animals_and_supplies_posts_active",
+        "field": "postId",
+        "count": 1863
+      },
+      "target_doc": {
+        "model": "animals_and_supplies_posts_active",
+        "field": "postId",
+        "count": 2211
+      },
+      "diff": {
+        "values_changed": {
+          "root['count']": {
+            "new_value": 2211,
+            "old_value": 1863
+          }
+        }
+      }
+    },
+    {
+      "_id": "669649febd71c90f1b7e4514",
+      "source_doc": {
+        "model": "tourist_attractions_calendar_planner_places",
+        "field": "placeId",
+        "count": 158
+      },
+      "target_doc": {
+        "model": "tourist_attractions_calendar_planner_places",
+        "field": "placeId",
+        "count": 171
+      },
+      "diff": {
+        "values_changed": {
+          "root['count']": {
+            "new_value": 171,
+            "old_value": 158
+          }
+        }
+      }
+    },
+    {
+      "_id": "635f91dbdf12bdbef68ef8b5",
+      "source_doc": {
+        "model": "user_records",
+        "field": "user_index",
+        "count": 64049
+      },
+      "target_doc": {
+        "model": "user_records",
+        "field": "user_index",
+        "count": 65421
+      },
+      "diff": {
+        "values_changed": {
+          "root['count']": {
+            "new_value": 65421,
+            "old_value": 64049
+          }
+        }
+      }
+    },
+    {
+      "_id": "6773d946350782863f3c8156",
+      "source_doc": {
+        "model": "furniture_posts_active",
+        "field": "postId",
+        "count": 30
+      },
+      "target_doc": {
+        "model": "furniture_posts_active",
+        "field": "postId",
+        "count": 160
+      },
+      "diff": {
+        "values_changed": {
+          "root['count']": {
+            "new_value": 160,
+            "old_value": 30
+          }
+        }
+      }
+    },
+    {
+      "_id": "665218da8848d7b58bc301e7",
+      "source_doc": {
+        "model": "vehicles_for_rent_posts_active",
+        "field": "postId",
+        "count": 1120
+      },
+      "target_doc": {
+        "model": "vehicles_for_rent_posts_active",
+        "field": "postId",
+        "count": 1382
+      },
+      "diff": {
+        "values_changed": {
+          "root['count']": {
+            "new_value": 1382,
+            "old_value": 1120
+          }
+        }
+      }
+    },
+    {
+      "_id": "665218da8848d7b58bc301e5",
+      "source_doc": {
+        "model": "phone_numbers_for_sale_posts_active",
+        "field": "postId",
+        "count": 756
+      },
+      "target_doc": {
+        "model": "phone_numbers_for_sale_posts_active",
+        "field": "postId",
+        "count": 902
+      },
+      "diff": {
+        "values_changed": {
+          "root['count']": {
+            "new_value": 902,
+            "old_value": 756
+          }
+        }
+      }
+    },
+    {
+      "_id": "665c058065d27b48daf4b0e6",
+      "source_doc": {
+        "model": "electronics_for_rent_posts_active",
+        "field": "postId",
+        "count": 727
+      },
+      "target_doc": {
+        "model": "electronics_for_rent_posts_active",
+        "field": "postId",
+        "count": 814
+      },
+      "diff": {
+        "values_changed": {
+          "root['count']": {
+            "new_value": 814,
+            "old_value": 727
+          }
+        }
+      }
+    },
+    {
+      "_id": "675a98a5e5aa0e45cfa0c6ff",
+      "source_doc": {
+        "model": "jobs_posts_active",
+        "field": "postId",
+        "count": 408
+      },
+      "target_doc": {
+        "model": "jobs_posts_active",
+        "field": "postId",
+        "count": 785
+      },
+      "diff": {
+        "values_changed": {
+          "root['count']": {
+            "new_value": 785,
+            "old_value": 408
+          }
+        }
+      }
+    },
+    {
+      "_id": "65e5702d237dbae390505150",
+      "source_doc": {
+        "model": "vehicles_for_sale_posts_active",
+        "field": "postId",
+        "count": 68426
+      },
+      "target_doc": {
+        "model": "vehicles_for_sale_posts_active",
+        "field": "postId",
+        "count": 70815
+      },
+      "diff": {
+        "values_changed": {
+          "root['count']": {
+            "new_value": 70815,
+            "old_value": 68426
+          }
+        }
+      }
+    },
+    {
+      "_id": "65ee3b32ec925513b6daa51d",
+      "source_doc": {
+        "model": "real_estate_for_sale_posts_active",
+        "field": "postId",
+        "count": 32651
+      },
+      "target_doc": {
+        "model": "real_estate_for_sale_posts_active",
+        "field": "postId",
+        "count": 34080
+      },
+      "diff": {
+        "values_changed": {
+          "root['count']": {
+            "new_value": 34080,
+            "old_value": 32651
+          }
+        }
+      }
+    },
+    {
+      "_id": "66d9c5160fc3cb678bb47c4a",
+      "source_doc": {
+        "model": "driving_training_posts_active",
+        "field": "postId",
+        "count": 401
+      },
+      "target_doc": {
+        "model": "driving_training_posts_active",
+        "field": "postId",
+        "count": 423
+      },
+      "diff": {
+        "values_changed": {
+          "root['count']": {
+            "new_value": 423,
+            "old_value": 401
+          }
+        }
+      }
+    },
+    {
+      "_id": "6655f6adde74da2935911805",
+      "source_doc": {
+        "model": "electronics_for_sale_posts_active",
+        "field": "postId",
+        "count": 3491
+      },
+      "target_doc": {
+        "model": "electronics_for_sale_posts_active",
+        "field": "postId",
+        "count": 4000
+      },
+      "diff": {
+        "values_changed": {
+          "root['count']": {
+            "new_value": 4000,
+            "old_value": 3491
+          }
+        }
+      }
+    },
+    {
+      "_id": "669649febd71c90f1b7e4512",
+      "source_doc": {
+        "model": "tourist_attractions_posts_reviews",
+        "field": "reviewId",
+        "count": 33
+      },
+      "target_doc": {
+        "model": "tourist_attractions_posts_reviews",
+        "field": "reviewId",
+        "count": 32
+      },
+      "diff": {
+        "values_changed": {
+          "root['count']": {
+            "new_value": 32,
+            "old_value": 33
+          }
+        }
+      }
+    }
+  ]
+}

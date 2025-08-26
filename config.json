@@ -1,0 +1,32 @@
+{
+    "source_db": {
+        "host": "localhost",
+        "port": 27017,
+        "db_name": "dm-development",
+        "username": "",
+        "password": "",
+        "authSource": "admin"
+    },
+    "target_db": {
+        "host": "localhost",
+        "port": 27017,
+        "db_name": "dm-production-om",
+        "username": "",
+        "password": "",
+        "authSource": "admin"
+    },
+    "collections": [
+        {
+            "name": "vehicles_makes_en",
+            "exclude_fields": ["is_active_vfr", "is_active"]
+        },
+        {
+            "name": "identitycounters",
+            "exclude_fields": ["__v"]
+        },
+        {
+            "name": "electronics_colors_en",
+            "exclude_fields": ["__v"]
+        }
+    ]
+}
